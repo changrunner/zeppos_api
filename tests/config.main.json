@@ -1,0 +1,5 @@
+{
+  "APPLICATION_NAME": "test_windows_service_app",
+  "DEBUG_MODE": "True",
+  "ENVIRONMENT": "main"
+}
